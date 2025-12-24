@@ -10,7 +10,7 @@ int main() {
                 break;
             }
         }
-        if (!isPrime) {
+        if (isPrime) {
             cout << num << " ";
         }
     }
